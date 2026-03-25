@@ -1,4 +1,4 @@
-# Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
+<img width="1025" height="522" alt="image" src="https://github.com/user-attachments/assets/8b2c8383-8ee7-444e-b23a-8da1029ca237" /># Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
 ### DATE: 
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
@@ -44,9 +44,10 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+<img width="1025" height="522" alt="Screenshot 2026-03-25 194608" src="https://github.com/user-attachments/assets/8fbcd49b-e040-41a6-9a68-749b7d1125e5" />
 
-### Name:
-### Register Number:
+### Name:EVANGELINE SOPHIYA P M 
+### Register Number:212225040086
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
