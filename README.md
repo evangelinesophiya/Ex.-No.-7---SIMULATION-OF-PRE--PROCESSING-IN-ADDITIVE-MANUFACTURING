@@ -1,4 +1,4 @@
-<img width="1025" height="522" alt="image" src="https://github.com/user-attachments/assets/8b2c8383-8ee7-444e-b23a-8da1029ca237" /># Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
+# Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
 ### DATE: 
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
